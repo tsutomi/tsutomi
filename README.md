@@ -1,9 +1,13 @@
 ### Hi there 👋
 
-<!--
-**tsutomi/tsutomi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Antonello Provenzano, originally from Palermo (Sicily), but currently living in Oslo (Norway).
 
-Here are some ideas to get you started:
+In my day life I am the Enterprise Architect of a Norwegian bank, but when the night comes I wear my cape and go around hacking some .NET open-source projects, and from time to time trying to develop some ideas for business applications.
+
+My experience as developer started when I was 10 years old and I received from my parents a Commodore-64, that all my friends used to play games, but that I have exploited by using BASIC programs found in a math book. Those were the days!
+
+
+<!--
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
