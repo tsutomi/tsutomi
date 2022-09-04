@@ -2,7 +2,7 @@
 
 I am Antonello Provenzano, originally from Palermo (Sicily), but currently living in Oslo (Norway).
 
-In my day life I am the Enterprise Architect of a Norwegian bank, but when the night comes I wear my cape and go around hacking some .NET open-source projects, and from time to time trying to develop some ideas for business applications.
+In my day life I work as consultant at [KnowIt](https://knowit.no), as .NET and Cloud Architect, while in my free time I like to hack some open-source projects, and from time to time trying to develop some ideas for business applications.
 
 My experience as developer started when I was 10 years old and I received from my parents a Commodore-64, that all my friends used to play games, but that I have exploited by using BASIC programs found in a math book. Those were the days!
 
