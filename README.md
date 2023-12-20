@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am Antonello Provenzano, originally from Palermo (Sicily), but currently living in Oslo (Norway).
+I am Antonello Provenzano, originally from Palermo (Sicily), but currently living in Switzerland.
 
-In my daily life, I work as a consultant for IT Architecture at [KnowIt](https://knowit.no), while in my free time, I like to hack some open-source projects, and from time to time try to develop some ideas that might be interesting to test.
+In my daily life, I work as a consultant for Solutions Architecture at [Fincons Group](https://finconsgroup.com), while in my free time, I like to hack some open-source projects, and from time to time try to develop some ideas that might be interesting to test.
 
 My experience as a developer started when I was 10 years old and I received from my parents a Commodore-64, that all my friends used to play games, but that I have exploited by using BASIC programs found in a math book. Those were the days!
 
