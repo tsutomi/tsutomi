@@ -1,35 +1,45 @@
-### Hi there 👋
+# Hey, I'm Antonello 👋
 
-I am Antonello Provenzano, originally from Palermo (Sicily), but currently living in Switzerland.
+![header](https://capsule-render.vercel.app/api?type=waving&height=120&text=Architecture%20x%20Open%20Source&fontAlign=50&fontAlignY=35&color=0:2E8B57,100:1E3A8A&fontColor=ffffff)
 
-In my daily life, I work as a IT Solutions Architect at [Viseca Payment Services](https://viseca.ch), the Swiss leading organization for payment services to banks, while in my free time, I like to hack some open-source projects, and from time to time try to develop some ideas that might be interesting to test.
+[![Deveel](https://img.shields.io/badge/Deveel-active%20non--profit-0A66C2?style=for-the-badge)](https://deveel.com)
+[![Blog](https://img.shields.io/badge/Blog-Enterprise%20Architecture-111827?style=for-the-badge)](https://antonello.provenza.no)
+[![OSS](https://img.shields.io/badge/Open%20Source-Builder-16A34A?style=for-the-badge)](https://github.com/deveel)
 
-My experience as a developer started when I was 10 years old and I received from my parents a Commodore-64, that all my friends used to play games, but that I have exploited by using BASIC programs found in a math book. Those were the days!
+I'm Antonello Provenzano: born in Palermo (Sicily), now based in Switzerland.  
+By day, I'm an IT Solutions Architect at [Viseca Payment Services](https://viseca.ch). By night (and weekends 😄), I build and ship open-source projects.
 
-Aside from my passion for software development, I am also a _TOGAF_ certified architect, _Azure Solutions Architect_ and as _Contributor to the Well-Architected Framework (WAF)_ by [Microsoft](https://microsoft.com).
+I started coding at 10 on a Commodore 64 with BASIC snippets from a math book. Still having fun, just with bigger systems now.
 
-From time to time I share some thoughts on the matter of _Enterprise Architecture_ on my [personal blog](https://antonello.provenza.no): feel free to reach out if you have remarks (positive or negative) and ideas.
+## What I'm about 🚀
 
----
+- Building practical software with strong architecture foundations.
+- Sharing ideas with the community, not keeping experiments in a drawer.
+- Connecting enterprise architecture thinking with real developer workflows.
 
-### Deveel
+Also: _TOGAF_ certified architect, _Azure Solutions Architect_, and contributor to Microsoft's _Well-Architected Framework (WAF)_.
 
-Many years ago (back in 2001) I established the brand _[Deveel](https://deveel.com)_, which I used to deliver some projects I was working on: at the beginning, it was nothing else than a website and a logo, but through time I made it to become an individual legal entity to provide IT consultancy services.
+## Deveel 😈
 
-Although the legal entity still exists, I moved on and returned Deveel to its original scope of an _umbrella_ under which to release (mainly) open-source projects.
+I started [Deveel](https://deveel.com) back in 2001. Today it's an active **non-profit** initiative where I release and grow open-source projects with a community-first mindset.
 
-You can explore all the projects released as Deveel in its [GitHub organization space](https://github.com/deveel).
+The mission is simple: test useful ideas, build practical tools, and share them openly.
 
-### Open Source Projects
+Explore all projects in the [Deveel GitHub organization](https://github.com/deveel).
 
-I must admit that contrary to the past, I am now better at creating new projects, rather than collaborating with existing ones, for the main reason that I am currently just a _hobbist_ developer since my day job is of another kind (still in IT, but not involving _coding_): I use my free time to experiment new methodologies, technologies, and frameworks, and while conducting my experiments and studies, I may find (or _think_ to have found) some open spots that could be of interest for the community.
+## What I'm building now 🛠️
 
-**Projects I am Working On...**
+- **[Deveel.Webhooks](https://github.com/deveel/deveel.webhooks)** - A .NET framework for managing and delivering webhooks to subscribed applications.
+- **[Deveel.Messaging](https://github.com/deveel/deveel.messaging)** - A lightweight, extensible messaging framework for building applications integrated with various messaging channels and providers (e.g., Twilio, Facebook, SendGrid, etc.).
+- **[Deveel.Repository](https://github.com/deveel/deveel.repository)** - A pragmatic framework to apply _Clean Architecture_ principles and implement repository patterns for data access.
+- **[Deveel.Events](https://github.com/deveel/deveel.events)** - A framework for building event-driven applications, supporting event subscription, publishing, and processing with a focus on simplicity and extensibility (a successor to the original _Deveel.Webhooks_).
 
-* **[Deveel.Webhooks](https://github.com/deveel/deveel.webhooks)** - A .NET framework for the management and delivery of _webhooks_ to subscribing applications
-* **[Deveel.Repository](https://github.com/deveel/deveel.repository)** - A _low-ambitions_ framework to implement the concepts of _Clean Architecture_ and establish _Repository Patterns_ to mediate the access to data sources
+## Old but gold projects 📚
 
-**Archived Projects (I was proud of)**
+- **[DeveelDB](https://github.com/deveel/deveeldb)** - Formerly _Minosse RDBMS_, it was the first SQL RDBMS for .NET.
+- **[CloudB](https://github.com/deveel/cloudb)** - A distributed database system that combined key/value, NewSQL, and graph capabilities years before Azure Cosmos DB.
 
-* **[DeveelDB](https://github.com/deveel/deveeldb)** - Formerly named _Minosse RDBMS_, it was the first SQL RDBMS for .NET
-* **[CloudB](https://github.com/deveel/cloudb)** - Years (many years) before _Azure CosmosDB_, this was a distributed database system with a hybrid data model (supporting at the same time _Key/Value_, _newSQL_ and _GraphDB_)
+## Let's connect ☕
+
+I regularly share thoughts on enterprise architecture here: [antonello.provenza.no](https://antonello.provenza.no).  
+If you have feedback, ideas, or just want to geek out on architecture and OSS, I'm always happy to chat.
