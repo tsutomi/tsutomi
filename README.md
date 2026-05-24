@@ -6,7 +6,7 @@
 [![Blog](https://img.shields.io/badge/Blog-Enterprise%20Architecture-111827?style=for-the-badge)](https://antonello.provenza.no)
 [![OSS](https://img.shields.io/badge/Open%20Source-Builder-16A34A?style=for-the-badge)](https://github.com/deveel)
 
-I'm Antonello Provenzano: born in Palermo (Sicily), now based in Switzerland.  
+I'm Antonello Provenzano: born in Palermo (Sicily), nomadic by events, now based in Switzerland 🇨🇭, although I still keep my Norwegian 🇳🇴 roots and affection.   
 By day, I'm an IT Solutions Architect at [Viseca Payment Services](https://viseca.ch). By night (and weekends 😄), I build and ship open-source projects.
 
 I started coding at 10 on a Commodore 64 with BASIC snippets from a math book. Still having fun, just with bigger systems now.
@@ -32,7 +32,7 @@ Explore all projects in the [Deveel GitHub organization](https://github.com/deve
 - **[Deveel.Webhooks](https://github.com/deveel/deveel.webhooks)** - A .NET framework for managing and delivering webhooks to subscribed applications.
 - **[Deveel.Messaging](https://github.com/deveel/deveel.messaging)** - A lightweight, extensible messaging framework for building applications integrated with various messaging channels and providers (e.g., Twilio, Facebook, SendGrid, etc.).
 - **[Deveel.Repository](https://github.com/deveel/deveel.repository)** - A pragmatic framework to apply _Clean Architecture_ principles and implement repository patterns for data access.
-- **[Deveel.Events](https://github.com/deveel/deveel.events)** - A framework for building event-driven applications, supporting event subscription, publishing, and processing with a focus on simplicity and extensibility (a successor to the original _Deveel.Webhooks_).
+- **[Hermodr](https://github.com/deveel/hermodr)** (_formerly Deveel.Events_) - A framework for building event-driven applications, supporting event subscription, publishing, and processing with a focus on simplicity and extensibility (a successor to the original _Deveel.Webhooks_).
 
 ## Old but gold projects 📚
 
