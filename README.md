@@ -21,7 +21,7 @@ Also: _TOGAF_ certified architect, _Azure Solutions Architect_, and contributor 
 
 ## Deveel 😈
 
-I started [Deveel](https://deveel.com) back in 2001. Today it's an active **non-profit** initiative where I release and grow open-source projects with a community-first mindset.
+I started [Deveel](https://deveel.org) back in 2001. Today it's an active **non-profit** initiative where I release and grow open-source projects with a community-first mindset.
 
 The mission is simple: test useful ideas, build practical tools, and share them openly.
 
@@ -29,10 +29,11 @@ Explore all projects in the [Deveel GitHub organization](https://github.com/deve
 
 ## What I'm building now 🛠️
 
+- **[Ratatosk](https://github.com/deveel/ratatosk)** _(formerly Deveel Messaging)_ - A lightweight, extensible messaging framework for building applications integrated with various messaging channels and providers (e.g., Twilio, Facebook, SendGrid, etc.).
+- **[Kista](https://github.com/deveel/kista)** _(formerly Deveel Repository)_- A pragmatic framework to apply _Clean Architecture_ principles and implement repository patterns for data access.
+- **[Hermodr](https://github.com/deveel/hermodr)** (_formerly Deveel Events_) - A framework for building event-driven applications, supporting event subscription, publishing, and processing with a focus on simplicity and extensibility (a successor to the original _Deveel.Webhooks_).
+- **[Deveel Math / DMath](https://github.com/deveel/dmath)** - Provides a BigDecimal implementation for arithmetic operations with arbitrary precision (up to 1M decimal digits).
 - **[Deveel.Webhooks](https://github.com/deveel/deveel.webhooks)** - A .NET framework for managing and delivering webhooks to subscribed applications.
-- **[Deveel.Messaging](https://github.com/deveel/deveel.messaging)** - A lightweight, extensible messaging framework for building applications integrated with various messaging channels and providers (e.g., Twilio, Facebook, SendGrid, etc.).
-- **[Deveel.Repository](https://github.com/deveel/deveel.repository)** - A pragmatic framework to apply _Clean Architecture_ principles and implement repository patterns for data access.
-- **[Hermodr](https://github.com/deveel/hermodr)** (_formerly Deveel.Events_) - A framework for building event-driven applications, supporting event subscription, publishing, and processing with a focus on simplicity and extensibility (a successor to the original _Deveel.Webhooks_).
 
 ## Old but gold projects 📚
 
